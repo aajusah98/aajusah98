@@ -10,6 +10,5 @@ Besides coding, I like Travelling :Solo: and sleeping :sleeping:
   <img align="left" alt="Ajay's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
 </a>
 <a href="https://www.linkedin.com/in/ajay-sah-864121168/">
-  <img align="left" alt="Ajay's LinkedIn" src="https://www.linkedin.com/in/ajay-sah-864121168/"/>
+  <img align="left" alt="Ajay's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png""/>
 </a>
-XMA Header Image
